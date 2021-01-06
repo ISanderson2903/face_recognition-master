@@ -1,0 +1,3 @@
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/face_recognition-master/CMakeFiles/CMakeProject1.dir
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/face_recognition-master/CMakeFiles/edit_cache.dir
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/face_recognition-master/CMakeFiles/rebuild_cache.dir

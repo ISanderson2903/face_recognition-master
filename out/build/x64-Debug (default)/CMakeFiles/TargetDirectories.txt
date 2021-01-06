@@ -1,0 +1,5 @@
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/out/build/x64-Debug (default)/CMakeProject1/CMakeFiles/CMakeProject1.dir
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/out/build/x64-Debug (default)/CMakeProject1/CMakeFiles/edit_cache.dir
+C:/Users/i-san/Dropbox/My PC (DESKTOP-0DMAK7N)/Desktop/tears/face_recognition-master/out/build/x64-Debug (default)/CMakeProject1/CMakeFiles/rebuild_cache.dir

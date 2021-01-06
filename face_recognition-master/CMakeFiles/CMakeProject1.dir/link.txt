@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CMakeProject1.dir/objects.a
+C:\Users\i-san\Dropbox\MYPC(D~1\Desktop\tears\mingw32\bin\ar.exe cr CMakeFiles\CMakeProject1.dir/objects.a @CMakeFiles\CMakeProject1.dir\objects1.rsp
+C:\Users\i-san\Dropbox\MYPC(D~1\Desktop\tears\mingw32\bin\G__~1.EXE -Wl,--whole-archive CMakeFiles\CMakeProject1.dir/objects.a -Wl,--no-whole-archive -o CMakeProject1.exe -Wl,--out-implib,libCMakeProject1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CMakeProject1.dir\linklibs.rsp
